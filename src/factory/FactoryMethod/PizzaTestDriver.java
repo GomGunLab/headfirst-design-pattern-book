@@ -1,4 +1,4 @@
-package FactoryMethod;
+package factory.FactoryMethod;
 
 public class PizzaTestDriver {
     public static void main(String[] args) {

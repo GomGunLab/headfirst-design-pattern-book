@@ -1,4 +1,4 @@
-package FactoryMethod;
+package factory.FactoryMethod;
 
 public class NYStyleCheesePizza extends Pizza {
     protected NYStyleCheesePizza() {
